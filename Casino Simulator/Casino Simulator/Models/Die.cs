@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Casino_Simulator.Assets
+namespace Casino_Simulator.Models
 {
-    class test
+    class Die
     {
     }
 }
