@@ -53,7 +53,7 @@ namespace Casino_Simulator {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Casino Simulator;component/homepage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Casino Simulator;V1.0.0.0;component/homepage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\HomePage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
