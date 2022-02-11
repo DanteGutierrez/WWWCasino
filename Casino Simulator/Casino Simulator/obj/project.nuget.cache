@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dIMhFwNyaPxv5dTZdeaxWRkQD1AnaEi5C1ar/mPvXFOCAA/fR60PawHEu1f7VQsAZSl985U/N1DN8SRh3a6gdA==",
+  "dgSpecHash": "I8R7NahrqMAzVoonT1uExbKrqL85kVe6dD0Dn5wvNAM75MnSeEK8nFWqq30VDtXwYAQAyz8Kqy4Jz5qKax1d+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dgutierrez\\WWWCasino\\Casino Simulator\\Casino Simulator\\Casino Simulator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ssilverman\\OneDrive - Neumont College of Computer Science\\Desktop\\Classes\\Q5\\Persistence Projects\\lab3\\WWWCasino\\Casino Simulator\\Casino Simulator\\Casino Simulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssilverman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
