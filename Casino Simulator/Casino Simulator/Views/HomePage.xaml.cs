@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Casino_Simulator.Controllers;
 using Casino_Simulator.Models;
 
 namespace Casino_Simulator
@@ -24,6 +25,7 @@ namespace Casino_Simulator
         public MainWindow()
         {
             InitializeComponent();
+            
         }
     }
 }

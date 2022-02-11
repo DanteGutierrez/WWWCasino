@@ -14,6 +14,7 @@ namespace Casino_Simulator.Models
         public Deck() //constructor
         {
             CreateDeck();
+            ShuffleDeck();
         }
 
         private void CreateDeck()
@@ -50,18 +51,20 @@ namespace Casino_Simulator.Models
             lstDeck.RemoveAt(0);
             return card;
         }
+        
+        //leave this here just in case
         public int GetValFromCard(Card card)
         {
             switch (card.value.ToLower())
             {
                 case "ace":
-                    return 1;
-                case "king":
-                    return 13;
-                case "queen":
-                    return 12;
-                case "jack":
                     return 11;
+                case "king":
+                    return 10;
+                case "queen":
+                    return 10;
+                case "jack":
+                    return 10;
                 default:
                     return int.Parse(card.value);
                 

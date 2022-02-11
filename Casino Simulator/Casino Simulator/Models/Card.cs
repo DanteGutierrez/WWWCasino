@@ -14,7 +14,25 @@ namespace Casino_Simulator.Models
             this.suit = suit;
             this.value = value;
         }
-        
+
+        public int GetValFromCard()
+        {
+            switch (value.ToLower())
+            {
+                case "ace":
+                    return 11;
+                case "king":
+                    return 10;
+                case "queen":
+                    return 10;
+                case "jack":
+                    return 10;
+                default:
+                    return int.Parse(value);
+                
+            }
+            
+        }
         public override string ToString()
         {
             return $"{value} of {suit}";
