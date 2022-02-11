@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Casino_Simulator.Models
 {
-    class Die
+    public class Die
     {
+        private int rolled;
+        public int GetFace()
+        {
+            return rolled;
+        }
+        public void Roll()
+        {
+            Random randy = new();
+            rolled = randy.Next(1, 7); //MaxValue is exclusive
+        }
     }
 }
