@@ -66,3 +66,27 @@ C:\Users\Tim Culiomin\Documents\GitHub\WWWCasino\Casino Simulator\Casino Simulat
 C:\Users\Tim Culiomin\Documents\GitHub\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\ref\Casino Simulator.dll
 C:\Users\Tim Culiomin\Documents\GitHub\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator.pdb
 C:\Users\Tim Culiomin\Documents\GitHub\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator.genruntimeconfig.cache
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator.csproj.AssemblyReference.cache
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Views\HomePage.g.cs
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Views\Slots.g.cs
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator_MarkupCompile.cache
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator_MarkupCompile.lref
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Views\HomePage.baml
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Views\Slots.baml
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator.g.resources
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator.AssemblyInfoInputs.cache
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator.AssemblyInfo.cs
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator.csproj.CoreCompileInputs.cache
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\ref\Casino Simulator.dll
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator.pdb
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\bin\Debug\net5.0-windows\Casino Simulator.exe
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\bin\Debug\net5.0-windows\Casino Simulator.deps.json
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\bin\Debug\net5.0-windows\Casino Simulator.runtimeconfig.json
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\bin\Debug\net5.0-windows\Casino Simulator.runtimeconfig.dev.json
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\bin\Debug\net5.0-windows\Casino Simulator.dll
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\bin\Debug\net5.0-windows\ref\Casino Simulator.dll
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\bin\Debug\net5.0-windows\Casino Simulator.pdb
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator.dll
+C:\Users\cstanley\IdeaProjects\WWWCasino\Casino Simulator\Casino Simulator\obj\Debug\net5.0-windows\Casino Simulator.genruntimeconfig.cache
